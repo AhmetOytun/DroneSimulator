@@ -1,7 +1,5 @@
 
-# Drone Simulator by BOMBA STUDIOS™
-
-  
+# Drone Simulator by AhmetOytun  
 
 ## Installation Guide
 
